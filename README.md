@@ -29,4 +29,5 @@ Once you enter a mode, any changes you make to the lighting will be saved to tha
 
 Right here!
 https://www.roblox.com/library/6702568592/Development-Lighting
+
 https://devforum.roblox.com/t/development-in-game-lighting-toggle-plugin/1177777
